@@ -1,0 +1,5 @@
+axios
+react
+react-dom
+react-scripts
+web-vitals
