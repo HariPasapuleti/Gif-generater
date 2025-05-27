@@ -1,5 +1,5 @@
 # GIF Generator 🎥
-
+ 
 A simple and fun web application that generates random GIFs or GIFs based on a tag using the Giphy API. Built with **Vite**, **React**, and modern frontend practices.
 
 ---
