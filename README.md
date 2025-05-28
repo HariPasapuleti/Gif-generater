@@ -1,10 +1,10 @@
 # GIF Generator 🎥
 
-A simple and fun web application that generates random GIFs or GIFs based on a tag using the Giphy API. Built with **Vite**, **React**, and modern frontend practices.
+A simple and fun web application that generates random GIFs or GIFs based on a tag using the Giphy API. Built with **Vite**, **React**, and modern frontend practices. 
 
 ---
 
-## 🔥 Features
+## 🔥 Features 
 - Generate **random GIFs** with a single click.
 - Search for GIFs based on specific **tags**.
 - **Responsive** design for seamless usage across devices.
@@ -12,7 +12,7 @@ A simple and fun web application that generates random GIFs or GIFs based on a t
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 - **Frontend**: React, Axios
 - **Build Tool**: Vite
 - **Styling**: CSS
